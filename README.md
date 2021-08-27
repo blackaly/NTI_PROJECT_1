@@ -9,7 +9,7 @@
 ## -> Password : 123456
 
 
-## Checkout File in the beginning is no longer needed. 
+## checkForLogin.php is no longer needed. 
 
 ## The project start at LUG2
 
