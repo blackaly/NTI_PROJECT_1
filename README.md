@@ -11,7 +11,7 @@
 
 ## checkForLogin.php is no longer needed. 
 
-## The project start at LUG2
+## The project starts at LUG2
 
 
 
